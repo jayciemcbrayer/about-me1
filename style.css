@@ -1,0 +1,33 @@
+h1 {
+    color: #A64AC9;
+}
+#container {
+    /* comment */
+    background-color: white;
+    color: black;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+
+}
+body {
+    background-color: black;
+    font-family: 'Asap', sans-serif;
+}
+.left-col {
+    float: left;
+}
+.right-col {
+    float: right;
+}
+.purpleText {
+    color: #A64AC9;
+}
+#mainButton {
+
+}
+.clearFix {
+    
+}
