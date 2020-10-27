@@ -31,11 +31,12 @@ body {
     padding: 17px;
     border-radius: 10px;
     display: inline-block;
+    font-size: large;
 }
 .clearFix {
     clear: both;
 }
 .jmphoto {
-    width: 350px;
+    width: 300px;
 
 }
